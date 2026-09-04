@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Unified the public-facing product name as `NovelForge — AI-Powered Long-Form Fiction Studio`.
+- Translated the Chinese product suffix as `Fiction Foundry` while preserving the Chinese documentation.
 
 ## 1.0.0 - 2026-09-04
 
