@@ -1,0 +1,18 @@
+project:
+  title: ""
+  genre: ""
+  platform: ""
+  status: draft
+  target_words: null
+  target_chapters: null
+  chapter_words: {min: null, max: null}
+story:
+  premise: ""
+  viewpoint: ""
+  structure: ""
+  ending_policy: ""
+style:
+  profile: ""
+authority:
+  updated_at: ""
+  source: ""
