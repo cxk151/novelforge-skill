@@ -1,6 +1,6 @@
 interface:
-  display_name: "NovelForge Fiction Foundry"
-  short_description: "长篇小说的立项、规划、写作、一致性审校和连载管理工作流"
+  display_name: "NovelForge 小说锻造台"
+  short_description: "帮长篇小说记住设定、接住前文，并在写崩前找出问题"
   brand_color: "#7C3AED"
   default_prompt: "Use $novelforge to create or continue my novel while preserving canon, continuity, and voice."
 policy:
