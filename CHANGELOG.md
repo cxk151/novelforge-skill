@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Unified the public-facing product name as `NovelForge — AI-Powered Long-Form Fiction Studio`.
+
 ## 1.0.0 - 2026-09-04
 
 - 建立 NovelForge 长篇小说创作工作流。
