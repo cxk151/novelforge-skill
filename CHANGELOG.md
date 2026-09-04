@@ -2,7 +2,8 @@
 
 ## Unreleased
 
-- Translated the Chinese product suffix as `Fiction Foundry` while preserving the Chinese documentation.
+- Restored the Chinese product name `NovelForge 小说锻造台`.
+- Rewrote the README around concrete long-form writing failures, product differences, and less formulaic language.
 
 ## 1.0.0 - 2026-09-04
 
