@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔥 NovelForge 小说锻造台
+# 🔥 NovelForge
 
-### 把几十万字的长篇小说，变成可管理、可检查、可持续迭代的创作工程
+### AI-Powered Long-Form Fiction Studio
 
 **它不只是续写助手，更像一支随叫随到的小说编辑部。**
 
